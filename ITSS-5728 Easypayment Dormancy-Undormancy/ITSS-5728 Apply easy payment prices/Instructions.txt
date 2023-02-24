@@ -1,0 +1,25 @@
+Navigate to Export&Import tool /common/uobject.jsp?object=3021058356013487092
+Click "Start Import Session"
+Click "Choose file"
+Select file "generic object Monthly Fee.zip"
+Click "Upload"
+In import options select the following values:
+	Update extra objects -> Yes
+	Update all params of all objects -> Yes, remove extra params
+	Update name and description of objects -> Yes
+Click "Save"
+Then Click "Proceed"
+Once import is completed, Click "Start Import Session" again
+Click "Choose file"
+Select file "generic object Monthly Fee2.zip"
+Click "Upload"
+In import options select the following values:
+	Update extra objects -> Yes
+	Update all params of all objects -> Yes, remove extra params
+	Update name and description of objects -> Yes
+Click "Save"
+Then Click "Proceed"
+Once import is completed
+
+Perform BOE Cache Reset.
+

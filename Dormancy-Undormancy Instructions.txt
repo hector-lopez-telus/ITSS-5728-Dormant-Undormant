@@ -1,0 +1,10 @@
+In each folder you will find a Query that will need to be ran 
+on /tools/db150.jsp.
+
+Once the script is ran
+
+Press F8 and
+
+Perform BOE Cache reset
+
+*Note*: inside the Folder "ITSS-5728 Easypayment Dormancy-Undormancy" You will have different instruction for Dormancy and Undormancy Scenarios 
